@@ -1,8 +1,5 @@
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D4F97&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Bien+👋;Full-Stack+Dev+%7C+AI+Systems+Builder;Laravel+·+Python+·+YOLOv8+·+C%23;BSIT+Student+@+DSSC+·+Graduating+2027)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aze-last&color=3d4f97&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aze-last)
-
----
 
 ### 👋 About Me
 
